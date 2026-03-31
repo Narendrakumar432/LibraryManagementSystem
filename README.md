@@ -121,16 +121,20 @@ http://localhost:8080/LibraryManagementSystem/
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](s<img width="1920" height="1080" alt="Screenshot 2026-03-31 174615" src="https://github.com/user-attachments/assets/c66e1411-ca47-4360-8452-a81b293df1c8" />
+creenshots/dashboard.png)
 
 ### Books Management
-![Books](screenshots/books.png)
+![Books](scr<img width="1920" height="1080" alt="Screenshot 2026-03-31 223848" src="https://github.com/user-attachments/assets/40ecd807-7388-4ecd-8558-f9d82b3ca445" />
+eenshots/books.png)
 
 ### Members Management
-![Members](screenshots/members.png)
+![Members](screenshots/mem<img width="1920" height="1080" alt="Screenshot 2026-03-31 223952" src="https://github.com/user-attachments/assets/4f503241-3d09-4f7a-aee0-68429d01e37d" />
+bers.png)
 
 ### Issue Book
-![Borrow](screenshots/borrow.png)
+![Borrow](scre<img width="1920" height="1080" alt="Screenshot 2026-03-31 224012" src="https://github.com/user-attachments/assets/3817c93a-a97d-4fc1-8ea2-9418f2981798" />
+enshots/borrow.png)
 
 ---
 
